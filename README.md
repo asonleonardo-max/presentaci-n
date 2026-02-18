@@ -4,7 +4,7 @@
 
 | Campo | Detalle |
 |-------|---------|
-| Nombre | `Anderson Leonardo Sarmiento` |
+| Nombre | `Anderson Leonardo Sarmiento Perez` |
 | Universidad | `Universidad Popular del Cesar seccional Aguachica` |
 | Carrera | `Ingenieria en Sistemas / Informatica / etc.` |
 | Semestre | `6to semestre` |
