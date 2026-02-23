@@ -1,0 +1,66 @@
+## Tema 1 — Variables y tipos de datos
+
+### Ejercicio 1 — Ficha de un estudiante
+Un sistema universitario necesita registrar la información básica de un estudiante: nombre completo, código (número entero), semestre actual, promedio acumulado y si está matriculado o no.
+
+- Declara las variables con los tipos de datos apropiados.
+- Asigna valores de ejemplo.
+- Imprime un reporte por consola con el siguiente formato:
+  ```
+  === Ficha del Estudiante ===
+  Nombre: Ana Torres
+  Código: 20241001
+  Semestre: 3
+  Promedio: 3.85
+  Matriculado: true
+  ```
+
+---
+
+### Ejercicio 2 — Calculadora de una tienda
+Una tienda de barrio vende productos al por menor. El cajero necesita calcular:
+
+- Precio unitario de un producto (`double`)
+- Cantidad comprada (`int`)
+- Descuento aplicado en porcentaje (`double`)
+- Total a pagar después del descuento
+
+Declara las variables, realiza el cálculo y muestra el resultado por consola.
+
+---
+
+### Ejercicio 3 — Sensor de temperatura
+Un sensor industrial registra temperaturas. El sistema recibe:
+
+- Temperatura actual en Celsius (`double`)
+- Nombre del sensor (`String`)
+- Número de lectura (`int`)
+- Si la temperatura supera el límite de 80°C, una variable `boolean` llamada `enAlarma` debe ser `true`.
+
+Imprime el estado del sensor con todos sus datos.
+
+---
+
+### Ejercicio 4 — Placa de un vehículo
+El RUNT almacena datos básicos de vehículos. Modela la información de un carro con:
+
+- Placa (`String`)
+- Año de fabricación (`int`)
+- Cilindraje en cc (`int`)
+- Precio de compra (`double`)
+- Inicial del color (`char`)
+- Si tiene SOAT vigente (`boolean`)
+
+Muestra todos los datos en consola.
+
+---
+
+### Ejercicio 5 — Conversor de unidades
+Una aplicación de cocina necesita convertir unidades:
+
+- Declara una variable `tazas` (`double`) con la cantidad de tazas de un ingrediente.
+- Convierte a mililitros (1 taza = 236.588 ml) y guarda el resultado en otra variable.
+- Convierte también a litros.
+- Muestra las tres medidas por consola.
+
+---
